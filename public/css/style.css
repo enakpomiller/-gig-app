@@ -1,0 +1,41 @@
+body{
+
+   /* background-color:#0dcaf0; */
+}
+.header{
+    background: #ffffff;
+    position:fixed;
+    top:0px;
+    left:0px;
+    right:0px;
+    border: 1px solid #0088cc;
+
+}
+
+.gigs{
+   border:1px solid blue;
+   background:grey;
+   color:white;
+   border:5px solid sea green;
+   padding: 10px 50px;
+   margin:10px 20px;
+   width:70%;
+}
+
+.btn_apply{
+ padding:10px 20px;
+ background:sea green;
+}
+
+.title{
+ text-transform:uppercase; 
+ color: brown;
+ font-weight:bolder;
+
+}
+
+.errors{
+  background:red;
+  margin: 10px 10px;
+  width:100px;
+}
